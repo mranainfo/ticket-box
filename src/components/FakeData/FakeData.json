@@ -1,0 +1,22 @@
+[
+  {
+    "image": "https://freepngimg.com/thumb/train/36224-9-metro-transparent-background-thumb.png",
+    "title": "Luxury Train",
+    "price": 500
+  },
+  {
+    "image": "https://images.vexels.com/media/users/3/145451/isolated/preview/d3ac7e539cba374525f981b102196af2-airplane-taking-off-by-vexels.png",
+    "title": "Airplane",
+    "price": 1500
+  },
+  {
+    "image": "https://freepngimg.com/thumb/categories/2991.png",
+    "title": "Luxury Bus",
+    "price": 1000
+  },
+  {
+    "image": "https://freepngimg.com/thumb/ship/6-ship-png-image-thumb.png",
+    "title": "Cruise",
+    "price": 9000
+  }
+]

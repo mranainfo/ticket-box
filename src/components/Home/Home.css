@@ -1,0 +1,9 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: url('https://img.freepik.com/free-photo/airplane-descending-blue-ocean-maldives-island_1232-4473.jpg?size=626&ext=jpg&ga=GA1.2.1642334425.1613888738');
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    background-repeat: no-repeat;
+    padding: 10px;
+}
